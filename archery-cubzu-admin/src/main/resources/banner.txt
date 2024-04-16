@@ -1,0 +1,4 @@
+RuoYi Framework Version: ${ruoyi.version}
+Application Version: ${ruoyi.archery-version}
+Spring Boot Version: ${spring-boot.version}
+System Booting-Up, Please wait...
